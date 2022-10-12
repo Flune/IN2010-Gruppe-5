@@ -11,7 +11,7 @@ De neste algoritmene er basert på huffman-koding og huffman trær:
 * Bygge huffman trær
 
 NB: Det viktigste er å forstå hvordan et huffman tre bygges. Super bonus om du klarer å tegne det selv!
-
+ 
 
 #### Viktige Datastrukturer
 * Binære heaps
